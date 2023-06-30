@@ -20,9 +20,6 @@ I started as a frontend web developer but at the age of 16 I decided to become a
 [![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TsugaruBurst)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsugaruBurst)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TsugaruBurst&show_icons=true)  
