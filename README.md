@@ -25,6 +25,7 @@ I started as a frontend web developer but at the age of 16 I decided to become a
 [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![WPF](https://img.shields.io/badge/WPF-4E8EE9)](https://docs.microsoft.com/en-us/dotnet/framework/wpf/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsugaruBurst)](https://github.com/anuraghazra/github-readme-stats)
 
