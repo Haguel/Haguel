@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hlib
 #### I am backend web developer
-I started as a frontend web developer but at the age of 16 I decided to become a backend web developer. So now I am 17, I learn backend and I like it :)
+I started as a frontend web developer but at the age of 16 I decided to become a backend web developer. So now I am 17, I learn backend and I like it☺
 
 - 🔭 I’m currently working on https://github.com/TsugaruBurst/NestJS-Forum-Backend 
 - 🌱 I’m currently learning: Algorithms 
@@ -16,7 +16,7 @@ I started as a frontend web developer but at the age of 16 I decided to become a
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-**Languages and tools I am familiar with:**  
+**Languages and tools I have some experience with:**  
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
