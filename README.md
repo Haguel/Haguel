@@ -33,7 +33,7 @@ I started as a frontend web developer but at the age of 16 I decided to become a
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsugaruBurst)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haguel)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TsugaruBurst&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haguel&show_icons=true)  
 
