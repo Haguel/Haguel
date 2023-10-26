@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hlib
 #### I am backend web developer
-I started as a frontend web developer but at the age of 16 I decided to become a backend web developer. Now I am 17, I learn backend and I like it☺
+I started as a frontend web developer but at the age of 16 I decided to become a backend web developer. Now I am 18, I learn backend and I like it☺
 
 - 🔭 I’m currently working on -
 - 🌱 I’m currently learning: Backend technologies
