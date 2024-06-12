@@ -3,7 +3,7 @@
 I started as a frontend web developer but at the age of 16 I decided to become a backend web developer. Now at the age of 18 I learn backend, code on Java Spring and I like it☺
 
 - 🔭 I’m currently working on https://github.com/PromisingDevelopment/ExpressTalk
-- 🌱 I’m currently learning: Advanced Java, Spring & Spring modules, Websockets & STOMP, Backend technologies
+- 🌱 I’m currently learning: Advanced Java, Spring & Spring modules, Backend technologies
 - 📫 How to reach me: hammanov.gleb@gmail.com 
 - ⚡ Fun fact: I tried to learn Japanese 
 
