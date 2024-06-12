@@ -2,7 +2,7 @@
 #### I am backend web developer
 I started as a frontend web developer but at the age of 16 I decided to become a backend web developer. Now at the age of 18 I learn backend, code on Java Spring and I like it☺
 
-- 🔭 I’m currently working on https://github.com/PromisingDevelopment/ExpressTalk
+- 🔭 I’m currently working on https://github.com/Haguel/ExpressTalk
 - 🌱 I’m currently learning: Advanced Java, Spring & Spring modules, Backend technologies
 - 📫 How to reach me: hammanov.gleb@gmail.com 
 - ⚡ Fun fact: I tried to learn Japanese 
@@ -36,8 +36,7 @@ I started as a frontend web developer but at the age of 16 I decided to become a
 [![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?logo=microsoft-dotnet&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haguel)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haguel&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haguel&show_icons=true)  
 
