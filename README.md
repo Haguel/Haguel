@@ -1,11 +1,18 @@
+
 ### Hi there 👋, my name is Hlib
 #### I am backend web developer
-I started as a frontend web developer but at the age of 16 I decided to become a backend web developer. Now at the age of 18 I learn backend, code on Java Spring and I like it☺
-
+I started as a frontend web developer but at the age of 16 I decided to become a backend web developer. Now at the age of 18 I learn backend, code on Java Spring and I like it
+<br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 - 🔭 I’m currently working on https://github.com/Haguel/ExpressTalk
 - 🌱 I’m currently learning: Advanced Java, Spring & Spring modules, Backend technologies
-- 📫 How to reach me: hammanov.gleb@gmail.com 
-- ⚡ Fun fact: I tried to learn Japanese 
+- ⚡ Fun fact: I tried to learn Japanese
+
+**How to reach me**
+<br/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalimanov.work@gmail.com) &nbsp; [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haguel3)
+
 
 **My main languages and tools**  
 
@@ -39,7 +46,8 @@ I started as a frontend web developer but at the age of 16 I decided to become a
 [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://www.nginx.com/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haguel&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haguel&show_icons=true)  
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haguel&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haguel&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haguel&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haguel&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haguel&theme=monokai&utcOffset=2)
