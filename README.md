@@ -12,6 +12,7 @@ I started as a frontend web developer but at the age of 16 I decided to become a
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
 
 **Languages and tools I have some experience with:**  
@@ -35,6 +36,8 @@ I started as a frontend web developer but at the age of 16 I decided to become a
 [![WPF](https://img.shields.io/badge/WPF-4E8EE9)](https://docs.microsoft.com/en-us/dotnet/framework/wpf/)
 [![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?logo=microsoft-dotnet&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/)
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://www.nginx.com/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haguel&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
