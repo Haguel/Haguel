@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 </p>
 
-- 🔭 I’m currently working on https://github.com/Haguel/ExpressTalk
+- 🔭 I’m currently working on https://github.com/Haguel/ExpressTalk, https://github.com/Haguel/Task-Management-Service
 - 🌱 I’m currently learning: Advanced Java, Spring & Spring modules, Backend technologies
 - ⚡ Fun fact: I tried to learn Japanese
 
@@ -47,8 +47,11 @@
 [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://www.nginx.com/)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haguel&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haguel&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haguel&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haguel&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haguel&theme=monokai&utcOffset=2)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haguel&theme=monokai" alt="Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haguel&theme=monokai" alt="Repos per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haguel&theme=monokai" alt="Most Commit Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haguel&theme=monokai" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haguel&theme=monokai&utcOffset=2" alt="Productive Time"/>
+</div>
+
