@@ -1,10 +1,11 @@
 
-### Hi there 👋, my name is Hlib
-#### I am backend web developer
-I started as a frontend web developer but at the age of 16 I decided to become a backend web developer. Now at the age of 18 I learn backend, code on Java Spring and I like it
-<br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+<h2 align="center">Hi there 👋, my name is Hlib</h2>
+<h3 align="center">I am backend web developer</h3>
+<h4 align="center">I started as a frontend web developer but at the age of 16 I decided to become a backend web developer. Now at the age of 18 I learn backend, code on Java Spring and I like it</h4>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+</p>
+
 - 🔭 I’m currently working on https://github.com/Haguel/ExpressTalk
 - 🌱 I’m currently learning: Advanced Java, Spring & Spring modules, Backend technologies
 - ⚡ Fun fact: I tried to learn Japanese
