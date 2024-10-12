@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 </p>
 
-- 🔭 I’m currently working on https://github.com/Haguel/ExpressTalk, https://github.com/Haguel/Driver-Dispatch-System, https://github.com/Haguel/Ticketing-Service
+- 🔭 I’m currently working on https://github.com/Haguel/ExpressTalk, https://github.com/Haguel/Driver-Dispatch-System
 - 🌱 I’m currently learning: Advanced Java, Spring & Spring modules, Backend technologies
 - ⚡ Fun fact: I tried to learn Japanese
 
