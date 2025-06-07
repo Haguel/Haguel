@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m currently working on -
-- 🌱 I’m currently learning: Advanced Java, Spring & Spring modules, Backend technologies
+- 🌱 I’m currently learning: Advanced Java, Algorithms, Patterns
 - ⚡ Fun fact: I tried to learn Japanese
 
 **How to reach me**
